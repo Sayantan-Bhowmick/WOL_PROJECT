@@ -5,3 +5,6 @@ ACE is an opensource code editor fully made using javascript and has performance
 
 
 ![Image](https://github.com/Sayantan-Bhowmick/WOL_PROJECT/blob/master/Screenshot%20(148).png)
+
+## where i would like to take this project
+First things would be to add css editing functionality and live results and then move on to add javascript editing and live results functionality.
